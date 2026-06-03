@@ -29,8 +29,8 @@ To write a Java program to determine the type of triangle using conditional stat
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Viswanadham Venkata Sai Sruthi
-RegisterNumber: 212223100061
+Developed by: yenuganti prathyusha
+RegisterNumber: 212223240187
 */
 ```
 
