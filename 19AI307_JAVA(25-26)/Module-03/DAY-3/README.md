@@ -30,8 +30,8 @@ To write a Java program to demonstrate **Composition by creating a class that co
 ```java
 /*
 Program to implement Composition Concepts in Java
-Developed by: Viswanadham Venkata Sai Sruthi
-RegisterNumber: 212223100061
+Developed by: yenuganti prathyusha
+RegisterNumber: 212223240187
 */
 
 import java.util.*;
